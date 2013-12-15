@@ -98,7 +98,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/lt02wifi/proprietary/lib/libcodecpngdec.so:system/lib/libcodecpngdec.so \
     vendor/samsung/lt02wifi/proprietary/lib/libcodecwmadec.so:system/lib/libcodecwmadec.so \
     vendor/samsung/lt02wifi/proprietary/lib/libcodecwmvdec.so:system/lib/libcodecwmvdec.so \
-    vendor/samsung/lt02wifi/proprietary/lib/libffmpeg.so:system/lib/libffmpeg.so \
     vendor/samsung/lt02wifi/proprietary/lib/hw/sensors.mrvl.so:system/lib/hw/sensors.mrvl.so \
     vendor/samsung/lt02wifi/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/lt02wifi/proprietary/etc/AGPS_CA.pem:system/etc/AGPS_CA.pem \
